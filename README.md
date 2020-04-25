@@ -16,7 +16,6 @@
 
 - Go to [http://localhost:8080/](http://127.0.0.1:8080/) to see the PHP running app.
 
-you can find the related Postman collection in the `Utils` repo (see Utils section below).
 
 ## Some import docker command that help you to access docker #######
 -- Running docker ps --no-trunc showing list linked containers.
